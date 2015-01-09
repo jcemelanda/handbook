@@ -1,6 +1,6 @@
 # PyLadies Handbook
 
-Então você decidiu começar seu próprio grupo PyLadies...
+Então você decidiu começar seu próprio grupo PyLadies... Aqui vão algumas dicas para te ajudar nisso :)
 
 YAY! Estamos muito animadas para ter pessoas como você se juntando à nossa comunidade e queremos ajudá-la a criar o seu grupo Pyladies da melhor forma possível, de forma rápida e sem estresses ;) Com a experiência que temos, podemos garantir que o seu primeiro grande evento irá estimular e inspirar a comunidade Python em sua área e criar uma dinâmica para eventos posteriores, por isso é fundamental para começar as coisas com o pé direito!
 
