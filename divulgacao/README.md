@@ -15,17 +15,17 @@ Faça o seguinte:
 
 ### Como podemos ajudar
 
-Envie e-mail para o ponto principal de contato de qualquer um dos seguintes canais, e forneça texto e/ou imagens para usarmos:
+Envie um email para o ponto principal de contato de qualquer um dos seguintes canais, e forneça texto e/ou imagens para usarmos:
 
 * Boletim informativo global das PyLadies: bom para anúncios sobre encontros. Pessoas inscritas por todo o mundo. Por favor, mantenha o texto breve e inclua uma imagem. Envie para brazil@pyladies.com)
-* Blog das PyLadies: nós iríamos amar que você contribuísse com posts no nosso blog! Nos mande um email caso deseje ajudar ou faça um pull-requeste para https://github.com/PyLadiesBr/pyladiesbr.github.io. Veja os arquivos que existe na pasta _posts e faça um na mesma estrutura.
+* Blog das PyLadies: nós iríamos amar que você contribuísse com posts no nosso blog! Nos mande um email caso deseje ajudar ou faça um pull-request para https://github.com/PyLadiesBr/pyladiesbr.github.io. Veja os arquivos que existe na pasta _posts e faça um na mesma estrutura.
 
 Além disso, promova todos os seus eventos diretamente através do seguinte:
 1. Grupo PyLadies Google: http://groups.google.com/group/pyladies
 2. Página no Facebook: https://www.facebook.com/PyLadiesBrazil
 3. Canal IRC #pyladies (FreeNode)
 
-Sempre que você tiver notícias de interesse da comunidade PyLadies, todos os canais acima estão disponíveis para ajudá-lo a fazer o seu anúncio. Estamos sempre à procura de boas citações e fotos de mulheres desenvolvedoras de Python.
+Sempre que você tiver notícias de interesse da comunidade PyLadies, todos os canais acima estão disponíveis para ajudá-la a fazer o seu anúncio. Estamos sempre à procura de boas citações e fotos de mulheres desenvolvedoras de Python.
 
 ### Orientações para a utilização dos canais de promoção PyLadies
 
@@ -34,13 +34,11 @@ Qualquer coisa de interesse de interessa para mulheres da comunidade Python pode
 * **Nos envie o texto que você quer que seja postado.**
 * Para eventos do PyLadies local:
 
-   * Envie a maior quantidade possível de textos sobre os eventos que vocês forem realizar para nós, para que possamos compartilhar em nossos canais. Quanto mais pudermos ajudar a promover seus eventos, melhor.
+   * Envie a maior quantidade possível de textos sobre os eventos que você for realizar para nós, para que possamos compartilhar em nossos canais. Quanto mais pudermos ajudar a promover seus eventos, melhor.
 
 * Para eventos que não são do grupo local do PyLadies e postagens em geral:
 
-   * As postagens devem ser relevantes para as mulheres da comunidade.  Mencione as mulheres que estão organizando e/ou participando do evento, vinculando seus nomes aos linkes que suas páginas ou contas de suas redes sociais.
+   * As postagens devem ser relevantes para as mulheres da comunidade.  Mencione as mulheres que estão organizando e/ou participando do evento, vinculando seus nomes aos links de suas páginas ou contas de suas redes sociais.
    * Explique bem do que se trata, e destaque os pontos que tornam o assunto que você está falando relevando para a comunidade.
-   * Gostaríamos de usar os vários canais para divulgar a comunidade do PyLadies de
-     vários lugares estão fazendo. Se você souber de alguém que deve ser apresentado ou algum evento que deve ser divulgado,
-     você pode escrever alguma coisa interessante para o blog, Twitter, etc
-   * Se você está hospedando um evento da comunidade Python ou conferência e precisa de nossa de ajuda para obter mais mulheres para participar, apresente-nos propostas, etc, uma explicação sobre por que mais mulheres devem participar. Um código de desconto para PyLadies também ajuda: lembre-se que uma grande parte de nosso público são alunas que está começando profissionalmente com Python, que não pode dar ao luxo de comprometer-se a eventos ou enviar propostas a menos que haja um desconto.
+   * Gostaríamos de usar os vários canais para divulgar o que a comunidade do PyLadies de vários lugares está fazendo. Se você souber de alguém que deve ser apresentado ou algum evento que deve ser divulgado, você pode escrever alguma coisa interessante para o blog, Twitter, etc
+   * Se você está hospedando um evento da comunidade Python ou conferência e precisa de nossa de ajuda para obter mais mulheres para participar, apresente-nos propostas, etc, uma explicação sobre por que mais mulheres devem participar. Um código de desconto para PyLadies também ajuda: lembre-se que uma grande parte de nosso público são alunas que estão começando profissionalmente com Python, que não podem dar ao luxo de comprometer-se a eventos ou enviar propostas a menos que haja um desconto.

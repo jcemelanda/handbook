@@ -8,7 +8,7 @@ Muito útil para planejar reuniões, mas também para suporte e prestação de c
 
 O PyLadies não é APENAS sobre programar -- nós também socializamos e nos divertimos!
 
-Então vocês podem fazer festas americanas na casa de um dos membros. Ou marcar encontros em uma cafeteria ou restaurante.
+Então você pode fazer festas americanas na casa de um dos membros. Ou marcar encontros em uma cafeteria ou restaurante.
 
 ### Workshops
 
@@ -45,7 +45,7 @@ Fora eles, tem alguns cursos online muito bons que podem te ajudar bastante:
 
 * Encontre um livro relevante de programação/desenvolvimento que você gostaria de estudar. Monte um grupo de estudo semanal.
 * Encontros para discutir assuntos mais básicos sobre programação e python para as meninas que estão entrando são muito bons.
-* Sedie um workshop de fim de semana sobre programação de jogos, statups, jornalimos, etc.
+* Sedie um workshop de fim de semana sobre programação de jogos, statups, jornalismos, etc.
 
 ### Hackathons/Sprints
 
@@ -55,15 +55,15 @@ Hackathons podem ser eventos de uma tarde, um dia inteiro ou um fim de semana.
 
 ### Encontros Virtuais
 
-Você pode realizar hangouts, chamadas por skype ou reuniões virtuais com outras ferramentas para trabalhar com as meninas idependende do local que estão. Uma sugestão que damos é o [Codassium](codassium.com), com ele você pode escrever código junto com vários outras pessoas e caso queira, pode fazer uma vídeo chamada.
+Você pode realizar hangouts, chamadas por skype ou reuniões virtuais com outras ferramentas para trabalhar com as meninas independende do local que estão. Uma sugestão que damos é o [Codassium](codassium.com), com ele você pode escrever código junto com vários outras pessoas e caso queira, pode fazer uma vídeo chamada.
 
 ### Encontros como parte de um encontro de Grupo de Usuários Python (GUP)
 
 Um evento PyLadies pode ser simples como um grupo de mulheres juntas conversando sobre seus projetos Python após um evento do grupo local.
 
-Qualquer coisa que encorage mulheres a participar e continuar participando dos grupos Python é ótima. Converse com os organizadores da sua comunidade de Python local e peça sua ajuda e suporte para ter um encontro PyLadies informal pós-reunião.
+Qualquer coisa que encorage mulheres a participar e continuar participando dos grupos Python é ótima. Converse com os organizadores da sua comunidade local de Python e peça sua ajuda e suporte para ter um encontro PyLadies informal pós-reunião.
 
-Você também pode considerar entregar um [Beginner Talk](http://kit.pyladies.com/en/latest/talks/beginner.html) em um encontro. Isso pode ajudar iniciantes e evintar que se assustem e se afastem do grupo.
+Você também pode considerar entregar um [Beginner Talk](http://kit.pyladies.com/en/latest/talks/beginner.html) em um encontro. Isso pode ajudar iniciantes e evitar que se assustem e se afastem do grupo.
 
 ### Reuniões para revisão de código
 
@@ -78,6 +78,6 @@ O que você pode fazer para organizar:
 * Brainstorm de idéias. Ajude uns aos outros a agrupar as idéias de discussões.
 * Analise as propostas de discussões de cada um.
 * Pratique discussões em frente um do outro, em um pequeno grupo.
-* Pratique em um grupo maior, como um evento em conjunto com o grupo de usuários de Python local.
+* Pratique em um grupo maior, como um evento em conjunto com o grupo local de usuários Python.
 
 Conferências podem ser estressantes, mas também são muito divertidas, especialmente se você está participando com um amigo ou com um grupo pequeno. Há também uma boa chance que você encontre PyLadies de outros grupos!

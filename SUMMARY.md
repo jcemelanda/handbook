@@ -10,5 +10,5 @@
 * [Encontrar Patrocinadores/Levantar fundos](encontrar_patrocinadoreslevantar_fundos/README.md)
 * [Contato](contato/README.md)
 * [Políticas](policies/README.md)
-* [Questões Frequêntes](questoes_frequentes/README.md)
+* [Questões Frequentes](questoes_frequentes/README.md)
 
