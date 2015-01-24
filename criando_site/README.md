@@ -8,13 +8,13 @@ Repositorio: https://github.com/pyladies-brazil/br-pyladies
 [SnapCI]() para integração contína e deploy
 [Heroku]() para hospedagem
 
-###Running PyLadies Website:
+### Rodando o site:
 ``git clone https://github.com/pyladies-brazil/br-pyladies.git``  
 ``cd br-pyladies``  
 ``LC_ALL="en_US.UTF-8" jekyll serve -w``
 
 
-Now you can access http://localhost:4000/
+Agora você pode acessar http://localhost:4000/
 
 ### Como adicionar dados do seu evento ao PyLadies Brasil?
 
