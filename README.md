@@ -1,4 +1,4 @@
-# PyLadies Handbook
+# PyLadies Brasil Handbook
 
 Então você decidiu começar seu próprio grupo PyLadies... Aqui vão algumas dicas para te ajudar nisso :)
 
