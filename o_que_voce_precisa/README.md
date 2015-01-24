@@ -10,7 +10,7 @@ Ladies desenvolvedoras em Python que querem ser organizadoras de grupos locais P
 
 Você pode usar vários canais locais para promover o seu grupo, incluindo meetup.com, redes sociais, grupos acadêmicos e mídia em geral. Além disso, ainda há uma lista de canais globais Pyladies que você pode usar. Você também pode entrar em contato conosco por [email](brazil@pyladies.com) ou mandar uma mensagem pelo [facebook](https://www.facebook.com/PyLadiesBrazil) falando sobre o grupo ou evento/encontro que esteja realizando, ficaremos super felizes em ajudar na divulgação nacional.
 
-Sugerimos que entrem em contato conosco para divulgação dos eventos para que as pessoas que se interessam e podem participar saibam o que está acontecendo e possam participar. Então caso você queira que a página do [PyLadies Brasil](https://www.facebook.com/PyLadiesBrazil) seja o meio principal de divulgação do grupo, é só nos encaminhar o material e texto necessário que ajudaremos nisso.
+Sugerimos que entre em contato conosco para divulgação dos eventos para que as pessoas que se interessam e podem participar saibam o que está acontecendo e participem. Então caso você queira que a página do [PyLadies Brasil](https://www.facebook.com/PyLadiesBrazil) seja o meio principal de divulgação do grupo, é só nos encaminhar o material e texto necessário que ajudaremos nisso.
 
 ### Eventos
 
