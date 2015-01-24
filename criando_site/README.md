@@ -2,11 +2,11 @@
 
 Repositorio: https://github.com/pyladies-brazil/br-pyladies
 
-###PyLadies website uses:
+### O site usa:
 
-[Jekyll]() with Notepad theme made by @hmfaysal  
-[SnapCI]() for continuous integration and deploy  
-[Heroku]() for hosting  
+[Jekyll]() com o tema Notepad feito por @hmfaysal  
+[SnapCI]() para integração contína e deploy
+[Heroku]() para hospedagem
 
 ###Running PyLadies Website:
 ``git clone https://github.com/pyladies-brazil/br-pyladies.git``  
