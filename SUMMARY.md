@@ -9,6 +9,6 @@
 * [Divulgação](divulgacao/README.md)
 * [Encontrar Patrocinadores/Levantar fundos](encontrar_patrocinadoreslevantar_fundos/README.md)
 * [Contato](contato/README.md)
-* [Políticas](policies/README.md)
+* [Políticas](politicas/README.md)
 * [Questões Frequentes](questoes_frequentes/README.md)
 
