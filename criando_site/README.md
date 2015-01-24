@@ -4,14 +4,12 @@ Repositorio: https://github.com/pyladies-brazil/br-pyladies
 
 ### O site usa:
 
-[Jekyll]() com o tema Notepad feito por @hmfaysal.
-
-[SnapCI]() para integração contína e deploy.
-
-[Heroku]() para hospedagem.
+* [Jekyll]() com o tema Notepad feito por @hmfaysal
+* [SnapCI]() para integração contína e deploy
+* [Heroku]() para hospedagem
 
 ### Rodando o site:
-``git clone https://github.com/pyladies-brazil/br-pyladies.git``  
+``git clone https://github.com/pyladies-brazil/br-pyladies.git`` 
 ``cd br-pyladies``  
 ``LC_ALL="en_US.UTF-8" jekyll serve -w``
 
