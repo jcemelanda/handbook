@@ -1,4 +1,4 @@
-# Questões Frequêntes
+# Questões Frequentes
 
 ### Os homens e transgêneros podem participar dos grupos PyLadies locais?
 
